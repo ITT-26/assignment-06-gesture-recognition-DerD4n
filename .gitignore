@@ -1,0 +1,8 @@
+/.venv
+/__pycache__
+/datasets/xml_logs
+
+# Ignore all .log files
+*.log
+# Ignore all .pyc files
+*.pyc
