@@ -2,14 +2,14 @@
 SPELL DUEL — ASCII Wizard Gesture-Combat Game
 ================================================
 Draw unistroke gestures to cast spells in a turn-based duel against an AI
-wizard. Your trained LSTM V2 model recognizes the gesture; its confidence
+wizard. The LSTM V2 model recognizes the gesture; its confidence
 score determines how powerful (or whether) the cast lands.
 
 Controls
 --------
 - Left-click and drag to draw your spell gesture.
 - Release the mouse to attempt the cast.
-- Press SPACE to continue after a turn resolves.
+- Just start drawing for the next spell
 - Press R to restart after the duel ends.
 - Press Q to quit.
 
